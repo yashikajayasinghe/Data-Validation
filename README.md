@@ -7,8 +7,10 @@ Validate the format of a particular ID
 
 Accepted format:
 ID always begins with three letters, followed by 10 digits.
-  3 Letters + 10 Digits (13 alpha numeric characters)
-First 3 letters should be in upper case
+  -> 3 Letters + 10 Digits (13 alpha numeric characters)
+  
+First 3 letters should be in upper case.
+
 If number 2 is repeated, the gap between two consecutive number 2's should be minimum of two digits
 
 e.g 
